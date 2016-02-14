@@ -1,0 +1,14 @@
+body {
+    min-width: 220px;
+    margin: 20px;
+    padding: 0;
+    webkit-box-sixing: webkit-box-sixing;
+    background-color: #fff;
+    height: calc(100vh - 40px);
+}
+
+@media(max-width:1050px) {
+    body {
+        padding: 20px;
+        margin: 0;
+    }
