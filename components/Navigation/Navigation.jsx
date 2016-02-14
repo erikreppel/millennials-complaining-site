@@ -11,7 +11,7 @@ class Navigation extends React.Component {
             <Row>
                 <Col xs={12} md={12}>
                     <div style={style.navItems}>
-                        <a href={'/podcasts'} style={style.navLink}>Podcasts</a>
+                        <a href={'/https://soundcloud.com/millennialscomplaining'} style={style.navLink}>Podcasts</a>
                         <span style={style.spacer}></span>
                         <a href={'/blog'} style={style.navLink}>Blog</a>
                         <span style={style.spacer}></span>
