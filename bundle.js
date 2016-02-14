@@ -24320,7 +24320,7 @@
 	                            { style: _style2.default.navItems },
 	                            _react2.default.createElement(
 	                                'a',
-	                                { href: '/podcasts', style: _style2.default.navLink },
+	                                { href: '/https://soundcloud.com/millennialscomplaining', style: _style2.default.navLink },
 	                                'Podcasts'
 	                            ),
 	                            _react2.default.createElement('span', { style: _style2.default.spacer }),
